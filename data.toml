@@ -1,7 +1,7 @@
 name = "xxx xyz"
 description = "Desc"
 keywords = "xxx xyz desc keys"
-image = "jake.webp"
+image = "new-profile.jpg"
 theme = "dark"
 primary_color = "#93c47d"
 text_align = "center"
