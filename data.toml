@@ -1,32 +1,32 @@
-name = "Jake Gyllenhaal"
-description = "Accomplished actor, captivating with versatility and charisma."
-keywords = "Jake Gyllenhaal, actor, filmography, awards, versatile performances, Hollywood"
+name = "xxx xyz"
+description = "Desc"
+keywords = "xxx xyz desc keys"
 image = "jake.webp"
 theme = "dark"
-primary_color = "#d81b60"
+primary_color = "#93c47d"
 text_align = "center"
-gtag_id = "G-XLJ81DCZFV"
-base_url = "https://thevahidal.github.io/jake"
+gtag_id = "G- "
+base_url = "https://https://esl1h.github.io"
 
 [[sections]]
-title = "Movies"
-description = "Here are some of my movies"
+title = "TT"
+description = "desc"
 direction = "column"
 item_style = "outline"
 [[sections.items]]
-embed_url = "https://www.youtube.com/embed/x0gUY9ddjQY"
+embed_url = "https://www.youtube.com/embed/xxx-xyz"
 [[sections.items]]
-title = "Nightcrawler"
-description = "A mesmerizing thriller delving into the dark world of crime journalism"
-url = "https://www.imdb.com/title/tt2872718/"
+title = "t1"
+description = "desc1"
+url = "https://www.imdb.com/title/xxx-xyz/"
 [[sections.items]]
-title = "Brokeback Mountain"
-description = "A groundbreaking romantic drama challenging societal expectations"
-url = "https://www.imdb.com/title/tt0388795/"
+title = "t2"
+description = "desc2"
+url = "https://www.imdb.com/title/xxx-xyz/"
 [[sections.items]]
-title = "Prisoners"
-description = "A gripping thriller entangling a detective in a web of secrets during a kidnapping investigation"
-url = "https://www.imdb.com/title/tt1392214/"
+title = "t3"
+description = "desc3"
+url = "https://www.imdb.com/title/xxx-xyz/"
 
 
 [[sections]]
@@ -38,16 +38,16 @@ icon_size = "30px"
 [[sections.items]]
 icon = "https://cdn.simpleicons.org/instagram/ffffff"
 title = "Instagram"
-url = "https://www.instagram.com/jakegyllenhaal"
+url = "https://www.instagram.com/xxx-xyz"
 [[sections.items]]
 icon = "https://cdn.simpleicons.org/imdb/ffffff"
 title = "IMDb"
-url = "https://www.imdb.com/name/nm0350453/"
+url = "https://www.imdb.com/name/xxx-xyz/"
 [[sections.items]]
 icon = "https://cdn.simpleicons.org/wikipedia/ffffff"
 title = "Wikipedia"
-url = "https://en.wikipedia.org/wiki/Jake_Gyllenhaal"
+url = "https://en.wikipedia.org/wiki/xxx-xyz"
 [[sections.items]]
 title = "Rotten Tomatoes"
 icon = "https://cdn.simpleicons.org/rottentomatoes/ffffff"
-url = "https://www.rottentomatoes.com/celebrity/jake_gyllenhaal"
+url = "https://www.rottentomatoes.com/celebrity/xxx-xyz"
