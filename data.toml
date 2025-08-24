@@ -65,3 +65,13 @@ url = "https://keybase.io/esl1h"
 title = "tips"
 icon = "https://cdn.simpleicons.org/bitcoin/ffffff"
 url = "https://listed.to/@Esli/tip"
+
+[[sections.items]]
+title = "hashnode"
+icon = "https://cdn.simpleicons.org/hashnode/ffffff"
+url = "https://hashnode.com/@esl1h"
+
+[[sections.items]]
+title = "X"
+icon = "https://cdn.simpleicons.org/x/ffffff"
+url = "https://x.com/esl1h"
