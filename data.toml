@@ -1,5 +1,5 @@
 name = "Esli Silva"
-description = "אצלי 🕎 🐧 💻 🥋 | SRE | DevOps | SysAdmin"
+description = "| SRE | DevOps | SysAdmin | 🕎 🐧 💻 🥋 אצלי"
 keywords = "Esli Silva"
 image = "new-profile.jpg"
 theme = "dark"
@@ -72,6 +72,6 @@ icon = "https://cdn.simpleicons.org/hashnode/ffffff"
 url = "https://hashnode.com/@esl1h"
 
 [[sections.items]]
-title = "X"
+title = ""
 icon = "https://cdn.simpleicons.org/x/ffffff"
 url = "https://x.com/esl1h"
