@@ -13,17 +13,21 @@ title = "Main websites"
 description = "My main addresses where you'll find my latest content"
 direction = "column"
 item_style = "outline"
+
 [[sections.items]]
 #embed_url = "https://www.youtube.com/embed/xxx-xyz"
-embed_url = "https://pbs.twimg.com/profile_banners/139572785/1584591802/1500x500"
+#embed_url = "https://pbs.twimg.com/profile_banners/139572785/1584591802/1500x500"
+
 [[sections.items]]
 title = "Blog"
 description = "My articles, blogging and website"
 url = "https://esli.blog"
+
 [[sections.items]]
 title = "notas"
 description = "Some quick notes, thoughts, and ideas in the bullet journal"
 url = "https://listed.to/@Esli"
+
 [[sections.items]]
 title = "LinkedIn"
 description = "Profile / resume / curriculo"
@@ -36,22 +40,27 @@ description = "Look for me on these websites"
 direction = "row"
 item_style = "filled"
 icon_size = "30px"
+
 [[sections.items]]
 icon = "https://cdn.simpleicons.org/git/ffffff"
 title = "Git"
 url = "https://esli.blog"
+
 [[sections.items]]
 icon = "https://cdn.simpleicons.org/github/ffffff"
 title = "GitHub"
 url = "https://github.com/Esl1h"
+
 [[sections.items]]
 icon = "https://cdn.simpleicons.org/stackoverflow/ffffff"
 title = "overflow"
 url = "https://stackoverflow.com/user"
+
 [[sections.items]]
 icon = "https://cdn.simpleicons.org/keybase/ffffff"
 title = "keybase"
 url = "https://keybase.io/esl1h"
+
 [[sections.items]]
 title = "tips"
 icon = "https://cdn.simpleicons.org/bitcoin/ffffff"
