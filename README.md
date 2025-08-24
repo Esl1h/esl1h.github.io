@@ -6,7 +6,9 @@
   Jake is a tool that allows you to effortlessly create your one-link website and deploy it on your GitHub account.
   <br />
   <br />
-  <a href="https://thevahidal.github.io/jake">Demo (original jake)</a> <a href="https://esli.cafe">My version (Esli) with apex domain</a>
+  <a href="https://thevahidal.github.io/jake">Demo (original jake)</a>
+  <br /> 
+  <a href="https://esli.cafe">My version with apex domain</a>
   <br />
   <br />
   <a href="https://esli.cafe">
