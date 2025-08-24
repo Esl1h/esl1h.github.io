@@ -3,13 +3,13 @@ description = "SRE | DevOps | SysAdmin"
 keywords = "Esli Silva"
 image = "new-profile.jpg"
 theme = "dark"
-primary_color = "#93c47d"
+primary_color = "#38761d"
 text_align = "center"
 #gtag_id = "G- "
 base_url = "https://esli.cafe"
 
 [[sections]]
-title = "Perfil"
+title = "Pages"
 description = "desc"
 direction = "column"
 item_style = "outline"
@@ -17,15 +17,15 @@ item_style = "outline"
 #embed_url = "https://www.youtube.com/embed/xxx-xyz"
 [[sections.items]]
 title = "Blog"
-description = "meus artigos, estudos e paginas"
+description = "My articles, blogging and website"
 url = "https://esli.blog"
 [[sections.items]]
 title = "notas"
-description = "Alguns pensamentos e ideias no bullet journal"
+description = "Some quick notes, thoughts, and ideas in the bullet journal"
 url = "https://listed.to/@Esli"
 [[sections.items]]
-title = "linkedin"
-description = "alguém tem que trabalhar né?"
+title = "LinkedIn"
+description = "Profile / resume / curriculo"
 url = "https://linkedin.com/en"
 
 
@@ -36,17 +36,21 @@ direction = "row"
 item_style = "filled"
 icon_size = "30px"
 [[sections.items]]
-icon = "https://cdn.simpleicons.org/github/ffffff"
-title = "github"
-url = "https://github.com/Esl1h"
-[[sections.items]]
 icon = "https://cdn.simpleicons.org/git/ffffff"
-title = "Others Git"
+title = "Git"
 url = "https://esli.blog"
 [[sections.items]]
+icon = "https://cdn.simpleicons.org/github/ffffff"
+title = "GitHub"
+url = "https://github.com/Esl1h"
+[[sections.items]]
 icon = "https://cdn.simpleicons.org/stackoverflow/ffffff"
-title = "stackoverflow"
+title = "overflow"
 url = "https://stackoverflow.com/user"
+[[sections.items]]
+icon = "https://cdn.simpleicons.org/keybase/ffffff"
+title = "keybase"
+url = "https://keybase.io/esl1h"
 [[sections.items]]
 title = "tips"
 icon = "https://cdn.simpleicons.org/bitcoin/ffffff"
