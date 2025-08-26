@@ -54,7 +54,7 @@ url = "https://github.com/Esl1h"
 
 [[sections.items]]
 icon = "https://cdn.simpleicons.org/stackoverflow/ffffff"
-title = "overflow"
+#title = "overflow"
 url = "https://stackoverflow.com/users/4122311/esli-silva"
 
 [[sections.items]]
