@@ -1,5 +1,6 @@
 name = "Esli Silva"
-description = "| SRE | DevOps | SysAdmin | 🕎 🐧 💻 🥋 אצלי"
+description = " SRE | DevOps | SysAdmin | 🕎 🐧 💻 🥋 אצלי 
+ss \n df"
 keywords = "Esli Silva"
 image = "new-profile.jpg"
 theme = "dark"
@@ -24,14 +25,14 @@ description = "My articles, blogging and website"
 url = "https://esli.blog"
 
 [[sections.items]]
-title = "notas"
+title = "Notes"
 description = "Some quick notes, thoughts, and ideas in the bullet journal"
 url = "https://listed.to/@Esli"
 
 [[sections.items]]
 title = "LinkedIn"
 description = "Profile / resume / curriculo"
-url = "https://linkedin.com/en"
+url = "https://www.linkedin.com/in/eslih/?locale=en_US"
 
 
 [[sections]]
@@ -44,7 +45,7 @@ icon_size = "30px"
 [[sections.items]]
 icon = "https://cdn.simpleicons.org/git/ffffff"
 title = "Git"
-url = "https://esli.blog"
+url = "https://listed.to/@Esli/64643/git"
 
 [[sections.items]]
 icon = "https://cdn.simpleicons.org/github/ffffff"
@@ -54,7 +55,7 @@ url = "https://github.com/Esl1h"
 [[sections.items]]
 icon = "https://cdn.simpleicons.org/stackoverflow/ffffff"
 title = "overflow"
-url = "https://stackoverflow.com/user"
+url = "https://stackoverflow.com/users/4122311/esli-silva"
 
 [[sections.items]]
 icon = "https://cdn.simpleicons.org/keybase/ffffff"
