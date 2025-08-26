@@ -33,7 +33,6 @@ title = "LinkedIn"
 description = "Profile / resume / curriculo"
 url = "https://www.linkedin.com/in/eslih/?locale=en_US"
 
-
 [[sections]]
 title = "Links"
 description = "Look for me on these websites"
@@ -52,11 +51,6 @@ title = "GitHub"
 url = "https://github.com/Esl1h"
 
 [[sections.items]]
-icon = "https://cdn.simpleicons.org/stackoverflow/ffffff"
-#title = "overflow"
-url = "https://stackoverflow.com/users/4122311/esli-silva"
-
-[[sections.items]]
 icon = "https://cdn.simpleicons.org/keybase/ffffff"
 title = "keybase"
 url = "https://keybase.io/esl1h"
@@ -72,6 +66,12 @@ icon = "https://cdn.simpleicons.org/hashnode/ffffff"
 url = "https://hashnode.com/@esl1h"
 
 [[sections.items]]
-title = ""
+icon = "https://cdn.simpleicons.org/stackoverflow/ffffff"
+#title = "overflow"
+url = "https://stackoverflow.com/users/4122311/esli-silva"
+
+[[sections.items]]
+#title = ""
 icon = "https://cdn.simpleicons.org/x/ffffff"
 url = "https://x.com/esl1h"
+
