@@ -1,6 +1,9 @@
-  header.container {
-      margin-bottom: 1rem;
+  body > header {                                                                                                                                                                                      
       padding-bottom: 0;
+  }                                                                                                                                                                                                    
+                                                                                                                                                                                                       
+  body > main {                                                                                                                                                                                        
+      padding-top: 0;                                                                                                                                                                                  
   }
 
 .avatar {
