@@ -19,6 +19,11 @@ item_style = "outline"
 #embed_url = "https://pbs.twimg.com/profile_banners/139572785/1584591802/1500x500"
 
 [[sections.items]]
+title = "Livro: Programando em Vlang (na Amazon)"
+description = "My articles, blogging and website"
+url = "https://www.amazon.com/Programando-Vlang-Simplicidade-Performance-Portuguese-ebook/dp/B0G1TVYF1B"
+
+[[sections.items]]
 title = "Blog"
 description = "My articles, blogging and website"
 url = "https://esli.blog"
