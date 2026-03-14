@@ -47,4 +47,10 @@ body > main {
   display: flex;
   gap: var(--spacing);
   justify-content: center;
+  align-items: center;
+}
+
+.item a hgroup:empty,
+.item a hgroup:has(h4:empty) {
+  display: none;
 }
