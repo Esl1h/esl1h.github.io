@@ -14,9 +14,9 @@ description = "My main addresses where you'll find my latest content here. Alway
 direction = "column"
 item_style = "outline"
 
-#[[sections.items]]
-#embed_url = "https://www.youtube.com/embed/xxx-xyz"
-#embed_url = "https://pbs.twimg.com/profile_banners/139572785/1584591802/1500x500"
+[[sections.items]]
+embed_url = "https://www.youtube.com/watch?v=7QGveZouuy8"
+embed_url = "https://pbs.twimg.com/profile_banners/139572785/1584591802/1500x500"
 
 [[sections.items]]
 title = "Blog"
