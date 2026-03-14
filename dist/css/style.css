@@ -1,13 +1,13 @@
 body > header {
-  padding-bottom: 0;
+  padding-bottom: 0 !important;
 }
 
 body > header hgroup {
-  margin-bottom: 0;
+  margin-bottom: 0 !important;
 }
 
 body > main {
-  padding-top: 1rem;
+  padding-top: 1rem !important;
 }
 
 .avatar {
