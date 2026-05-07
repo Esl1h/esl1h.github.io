@@ -31,11 +31,6 @@ description = "Programando em Vlang: Simplicidade e Performance"
 url = "https://www.amazon.com/Programando-Vlang-Simplicidade-Performance-Portuguese-ebook/dp/B0G1TVYF1B"
 
 [[sections.items]]
-title = "Notes"
-description = "Some quick notes, thoughts, and ideas in the bullet journal"
-url = "https://listed.to/@Esli"
-
-[[sections.items]]
 title = "LinkedIn"
 description = "Profile / resume / curriculo"
 url = "https://www.linkedin.com/in/eslih/?locale=en_US"
@@ -81,4 +76,3 @@ url = "https://stackoverflow.com/users/4122311/esli-silva"
 #title = ""
 icon = "https://cdn.simpleicons.org/x/ffffff"
 url = "https://x.com/esl1h"
-
